@@ -32,10 +32,19 @@ Celebration	3/31/22	3/31/22	Team
 The above project plan approximates the project schedule based on deadlines provided for Module 20.  The team will continue to update the plan as we finalize role rotation, and we finalize the project scope.
 
 
-
 Module 20 Deadlines
 -	Module 20 First Segment Project Deliverable due March 6th, 2022
 -	Module 20 Second Segment Project Deliverable Due March 20th, 2022
 -	Module 20 Third Segment Project Deliverable Due March 27th, 2022
 -	Module 20 Final Segment Project Deliverable Due March 31st 2022
+
+Entertainment Project Team and Role
+Team Member	Role	Description
+Rasheem G.	X	The X role will focus on the technology side of the project
+Caitlin B.	Circle	The circle role will oversee the mockup database
+Edin C.	Triangle	The triangle role is responsible for creating a simple machine learning model.
+Tasnuva M.	Square	The square role will be responsible for setting up the repository.
+
+The roles above will apply for the first segment of the module 20.  As required, we will plan to rotate the X role among team members.  In the upcoming week the team will determine the rotation of the X role to align with the deliverable deadlines. 
+
 
