@@ -47,4 +47,6 @@ Tasnuva M.	Square	The square role will be responsible for setting up the reposit
 
 The roles above will apply for the first segment of the module 20.  As required, we will plan to rotate the X role among team members.  In the upcoming week the team will determine the rotation of the X role to align with the deliverable deadlines. 
 
+Communication Plan
+The entire team will communicate via the entertainment slack group chat.  The team will also use scheduled meeting times via Zoom on Tuesday and Thursday 02-22-2022 – 03-31-2022.  Additional meeting to be scheduled via Zoom as needed.
 
