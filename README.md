@@ -1,7 +1,7 @@
 # Entertainment_project
 
 ## Entertainment Project Plan and Presentation
-
+https://www.kaggle.com/brunovr/metacritic-videogames-data
 ### Overview 
 For the final project, the team has decided to analyze the video game industry based on our shared interest in Entertainment. Video games have been trending for the past decade and has become a pop culture reference between generations. The team has sourced the video game dataset from Kaggle (found in the link above). Based on the dataset, the team will analyze which is the most anticipated game/franchise release and by which developer, which game would have the highest rating in the future, which game developer has the best score, as well as what genre of games is most popular by number of players (single vs. multiplayer).
 
