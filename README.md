@@ -16,14 +16,14 @@ For further information on what techonology we'll be using and how, please see t
 - Module 20 Third Segment Project Deliverable Due March 27th, 2022
 - Module 20 Final Segment Project Deliverable Due March 31st 2022
 
-### Entertainment Project Team and Roles:
+### Entertainment Project Team and Roles for Deliverable 1:
 Team Member Role Description 
-- Rasheem G.- X: The X role will focus on the technology side of the project 
-- Caitlin B.- Circle: The circle role will oversee the mockup database 
-- Edin C.- Triangle: The triangle role is responsible for creating a simple machine learning model. 
-- Tasnuva M.- Square: The square role will be responsible for setting up the repository.
+- Rasheem G.- X: The X role will focus on the technology side of the project *uploaded readMe on his branch for project plan*
+- Caitlin B.- Circle: The circle role will oversee the mockup database *uploaded mockup database as .csv file on main branch*
+- Edin C.- Triangle: The triangle role is responsible for creating a simple machine learning model. *please see Edin's branch for machine learning model*
+- Tasnuva M.- Square: The square role will be responsible for setting up the repository. *pushed and uploaded README and technologiy file to main branch*
 
 The roles above will apply for the first segment of the module 20. As required, we will plan to rotate the X role among team members. In the upcoming week the team will determine the rotation of the X role to align with the deliverable deadlines.
 
 ### Communication Plan:
-The entire team will communicate via the entertainment slack group chat. The team will also use scheduled meeting times via Zoom on Tuesday and Thursday 02-22-2022 – 03-31-2022. Additional meeting to be scheduled via Zoom as needed.
+The entire team will mainly communicate via the entertainment Slack group chat. The team will also use scheduled meeting times via Zoom on Tuesday and Thursday 02-22-2022 – 03-31-2022. Additional meeting to be scheduled via Zoom as needed. Emails have been exchanged in case we're not active on Slack. The team has also created a shared Notion page to checklist tasks and to keep track of the timeline.
