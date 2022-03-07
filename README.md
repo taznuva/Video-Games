@@ -13,9 +13,9 @@ Sample data set for machiene learning module:
 - Verify "Critics" column usage. 
 
 ## Table Data: 
-Critic Scores/User Scores by Developer 
-Critic Scores/User Scores by Platform 
-Developer by Release Date 
-Franchise Scores by Release Date 
-Critics/Score by Genere 
+* Critic Scores/User Scores by Developer 
+* Critic Scores/User Scores by Platform 
+* Developer by Release Date 
+* Franchise Scores by Release Date 
+* Critics/Score by Genere 
 
