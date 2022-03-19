@@ -1,4 +1,4 @@
-# Entertainment_project# Entertainment_project
+# Entertainment_project
 ![image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gridoffset-videogames-1-1585583517.jpg)
 ## Entertainment Project Plan and Presentation
 https://www.kaggle.com/brunovr/metacritic-videogames-data
