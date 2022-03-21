@@ -79,5 +79,8 @@ Sample data set for machine learning module:
 * Franchise by Critics
 * Critics/Score by Genere
 
+### Machine Learning 
+Module 20 Second Segment.docx
+
 ### Communication Plan:
 The entire team will mainly communicate via the entertainment Slack group chat. The team will also use scheduled meeting times via Zoom on Tuesday and Thursday 02-22-2022 – 03-31-2022. Additional meeting to be scheduled via Zoom as needed. Emails have been exchanged in case we're not active on Slack. The team has also created a shared Notion page to checklist tasks and to keep track of the timeline.
