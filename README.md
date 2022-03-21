@@ -51,9 +51,9 @@ The roles above will apply for the second segment of the module 20. As required,
 Sample data set for machine learning module:
 1) Dropping Player column.
 2) Clean & use 2021 Sales per game csv data for additional info / join requirement (postgres). 
-3) All potential dupicate values are an exact match for easy filtering, reducing numerical/grammatical errors.
-4) "Release Date" column formated mm-dd-yy.
-5) Format "Genere" column for grouping.
+3) All potential duplicate values are an exact match for easy filtering, reducing numerical/grammatical errors.
+4) "Release Date" column formayted mm-dd-yy.
+5) Format "Genre" column for grouping.
 6) Create new column determining "Franchise"
 7) Verify "Critics" column usage. 
 8) Line or Logistic Regression model for determining Developer/Franchise success rate.
