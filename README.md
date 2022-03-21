@@ -1,12 +1,22 @@
-# Entertainment_project
+# Video-Games: Metacritic
 ![image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gridoffset-videogames-1-1585583517.jpg)
+
 ## Entertainment Project Plan and Presentation
-https://www.kaggle.com/brunovr/metacritic-videogames-data
+Link to presentation can be found [Here](https://docs.google.com/presentation/d/1Ufqt-ugDe9Q2NsigC36nNvBCTmWIoBLgSVdLJVUhqxk/edit#slide=id.gc6f980f91_0_0)
+
+Data Source: https://www.kaggle.com/brunovr/metacritic-videogames-data
 ### Overview 
-For the final project, the team has decided to analyze the video game industry based on our shared interest in Entertainment. Video games have been trending for the past decade and has become a pop culture reference between generations. The team has sourced the video game dataset from Kaggle (found in the link above). Based on the dataset, the team will analyze which is the most anticipated game/franchise release and by which developer, which game would have the highest rating in the future, which game developer has the best score, as well as what genre of games is most popular by number of players (single vs. multiplayer).
+#### Why We Chose This Topic?
+For the final project, the team has decided to analyze the video game industry based on our shared interest in Entertainment. Video games are continuously evolving in the tech industry. It has become a popular culture and provides a fun and social form of entertainment. Its relevance to the tech will be applicable for our tech career. The team has sourced the video game dataset from Kaggle (found in the link above). Based on the dataset, our objective is to predict the most anticipated video game franchise based on sales and scores. 
+#### Questions To Answer: 
+- Based on how many metacritics (user) and critics, are we able to predict the score for an anticipated video game?
+- Based on the review scores (critic and users) and franchise, are we able to to predict video game sales and its projected growth?
+- Does genre, review scores, platform, developer, franchise, and release dates have any impact on video game (vg) sales?
 
-We will use Python, Pandas, Machine Learning (supervised and unsupervised) models, and SQL-based database to perform our analysis. 
+The team will analyze which is the most anticipated game/franchise release and by which developer, which game would have the highest rating in the future, which game developer has the best score, as well as what genre of games is most popular by number of players (single vs. multiplayer).
+#### Technologies Used: 
 
+Python, Pandas, Jupyter Notebook, SQL, SQLAlchemy, Tableau, Excel
 For further information on what techonology we'll be using and how, please see the techonology.md file. 
 
 ### Module 20 Deadlines:
