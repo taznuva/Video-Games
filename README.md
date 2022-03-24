@@ -35,5 +35,59 @@ Team Member Role Description
 
 The roles above will apply for the first segment of the module 20. As required, we will plan to rotate the X role among team members. In the upcoming week the team will determine the rotation of the X role to align with the deliverable deadlines.
 
+### Entertainment Project Team and Roles for Deliverable 2:
+Team Member Role Description 
+- Rasheem G.- Square: The square role will refine the machine learning model using (train and test) *uploaded readMe on his branch for project plan*
+- Caitlin B.- Circle: The circle role will clean and analyze data and create visuals to accompany data story *uploaded mockup database as .csv file on main branch*
+- Edin C.- Triangle: The triangle role is responsible for transforming the mockup database into a full database that integrates with data. *please see Edin's branch for machine learning model*
+- Tasnuva M.- X: The X role will outline and conceptualize dashboard and presentation as well as update the repository. *pushed and uploaded README and technologiy file to main branch*
+
+The roles above will apply for the second segment of the module 20. As required, we will plan to rotate the X role among team members. In the upcoming week the team will determine the rotation of the X role to align with the deliverable deadlines.
+
+ *all members have 4 commits in their branches.
+
+### Data Exploratory and Analysis: 
+#### Initial Clean up: 
+Sample data set for machine learning module:
+1) Dropping Player column.
+2) Clean & use 2021 Sales per game csv data for additional info / join requirement (postgres). 
+3) All potential duplicate values are an exact match for easy filtering, reducing numerical/grammatical errors.
+4) "Release Date" column formayted mm-dd-yy.
+5) Format "Genre" column for grouping.
+6) Create new column determining "Franchise"
+7) Verify "Critics" column usage. 
+8) Line or Logistic Regression model for determining Developer/Franchise success rate.
+
+#### Understanding our raw data file - Data columns:
+* name: The name of the game
+* platform: Platform it was released
+* r-date: date it was released
+* score: average score given by critics (metascore)
+* user score: average score given by users in the website
+* developer: game developer
+* genre: genre of the game (can be multiple)
+* players: Number of players (DROP THIS COLUMN due to missing information)
+* critics: number of critics reviewing the game
+* users: Number of metacritic users that reviewed the game
+
+#### Table Data: 
+* Critic Scores/User Scores by Developer 
+* Critic Scores/User Scores by Platform 
+* Developer by Release Date 
+* Franchise Scores by Release Date 
+* Franchise by Critics
+* Critics/Score by Genere
+
+### Machine Learning:
+Link to Machine Learning description [Here](https://github.com/taznuva/Entertainment_project/blob/Rasheem/Module%2020%20Second%20Segment.docx)
+
+### Database Integration:
+We used Pandas and SQLAlchemy to load the csv files that we started with, and merged tables that we created into a SQL database. Our database is then able to interact with our machnie learning model, which allows us to make predictions and analyze our results.
+
+### Dashboard:
+We will be using Tableau and Pandas to build visualizations of our analysis which we will showcase on Google Slides. 
+
+For the interactive portion, we will build the options to manipulate the features for the graphs. 
+
 ### Communication Plan:
 The entire team will mainly communicate via the entertainment Slack group chat. The team will also use scheduled meeting times via Zoom on Tuesday and Thursday 02-22-2022 – 03-31-2022. Additional meeting to be scheduled via Zoom as needed. Emails have been exchanged in case we're not active on Slack. The team has also created a shared Notion page to checklist tasks and to keep track of the timeline.
