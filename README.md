@@ -58,8 +58,6 @@ Sample data set for machine learning module:
 7) Verify "Critics" column usage. 
 8) Line or Logistic Regression model for determining Developer/Franchise success rate.
 
-
-
 #### Understanding our raw data file - Data columns:
 * name: The name of the game
 * platform: Platform it was released
@@ -80,6 +78,7 @@ Sample data set for machine learning module:
 * Franchise by Critics
 * Critics/Score by Genere
 
+
 ##### Critic v Metacritic Score
 ![Critic v Metacritic Score](https://user-images.githubusercontent.com/93060074/160318680-704eacb9-af2c-4fc7-aa10-ef76799d73c3.jpg)
 
@@ -91,6 +90,7 @@ Sample data set for machine learning module:
 
 ##### Game Count
 ![Game Count](https://user-images.githubusercontent.com/93060074/160318709-693ebea4-394b-40f8-bf27-55c10251f58a.jpg)
+
 
 ### Machine Learning:
 Link to Machine Learning description [Here](https://github.com/taznuva/Entertainment_project/blob/Rasheem/Module%2020%20Second%20Segment.docx)
