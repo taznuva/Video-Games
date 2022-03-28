@@ -104,6 +104,7 @@ We used Pandas and SQLAlchemy to load the csv files that we started with, and me
 We will be using Tableau and Pandas to build visualizations of our analysis which we will showcase on Google Slides. 
 
 For the interactive portion, we will build the options to manipulate the features for the graphs.
+
 Link to Live Dashboard with Interactive Element for User Discovery: [here](https://public.tableau.com/views/FinalProjectDash_16484347260900/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![Screen Shot 2022-03-28 at 12 19 50 AM](https://user-images.githubusercontent.com/91990957/160326044-396c818a-999e-41fe-b9d4-b531fc0ad93e.png)
