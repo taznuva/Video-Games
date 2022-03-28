@@ -89,5 +89,3 @@ We will be using Tableau and Pandas to build visualizations of our analysis whic
 
 For the interactive portion, we will build the options to manipulate the features for the graphs. 
 
-### Communication Plan:
-The entire team will mainly communicate via the entertainment Slack group chat. The team will also use scheduled meeting times via Zoom on Tuesday and Thursday 02-22-2022 – 03-31-2022. Additional meeting to be scheduled via Zoom as needed. Emails have been exchanged in case we're not active on Slack. The team has also created a shared Notion page to checklist tasks and to keep track of the timeline.
