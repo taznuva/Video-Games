@@ -78,6 +78,20 @@ Sample data set for machine learning module:
 * Franchise by Critics
 * Critics/Score by Genere
 
+
+##### Critic v Metacritic Score
+![Critic v Metacritic Score](https://user-images.githubusercontent.com/93060074/160318680-704eacb9-af2c-4fc7-aa10-ef76799d73c3.jpg)
+
+##### Critic v Metacritic
+![Critic v Metacritic](https://user-images.githubusercontent.com/93060074/160318689-353a371e-59e9-4963-ba1c-2f56e673271b.jpg)
+
+##### Global Sales
+![Global Sales](https://user-images.githubusercontent.com/93060074/160318698-1ad6cb7c-59e6-4259-aedb-ff74dc5f11b3.jpg)
+
+##### Game Count
+![Game Count](https://user-images.githubusercontent.com/93060074/160318709-693ebea4-394b-40f8-bf27-55c10251f58a.jpg)
+
+
 ### Machine Learning:
 Link to Machine Learning description [Here](https://github.com/taznuva/Entertainment_project/blob/Rasheem/Module%2020%20Second%20Segment.docx)
 
