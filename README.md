@@ -93,7 +93,9 @@ Sample data set for machine learning module:
 
 
 ### Machine Learning:
-Link to Machine Learning description [Here](https://github.com/taznuva/Entertainment_project/blob/Rasheem/Module%2020%20Second%20Segment.docx)
+Link to Machine Learning description [Here](https://github.com/taznuva/Entertainment_project/blob/main/Module%2020%20Second%20Segment%20UPDATED)
+
+![image](https://user-images.githubusercontent.com/33046642/160321071-2b1f0649-d8f6-4942-af7a-d7ce083ac8c5.png)
 
 ### Database Integration:
 We used Pandas and SQLAlchemy to load the csv files that we started with, and merged tables that we created into a SQL database. Our database is then able to interact with our machnie learning model, which allows us to make predictions and analyze our results.
