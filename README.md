@@ -1,7 +1,9 @@
 # Video-Games: Metacritic
 ![image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gridoffset-videogames-1-1585583517.jpg)
 
-## Entertainment Project Plan and Presentation
+## Entertainment Project Plan and Presentation!
+![presentation](https://user-images.githubusercontent.com/33046642/161146165-687535fe-8571-4c08-8876-e9dc2a33a06e.gif)
+
 Link to presentation can be found [Here](https://docs.google.com/presentation/d/1Ufqt-ugDe9Q2NsigC36nNvBCTmWIoBLgSVdLJVUhqxk/edit#slide=id.gc6f980f91_0_0)
 
 Data Source: https://www.kaggle.com/brunovr/metacritic-videogames-data
