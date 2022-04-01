@@ -1,7 +1,9 @@
 # Video-Games: Metacritic
 ![image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gridoffset-videogames-1-1585583517.jpg)
 
-## Entertainment Project Plan and Presentation
+## Entertainment Project Plan and Presentation!
+![presentation](https://user-images.githubusercontent.com/33046642/161146165-687535fe-8571-4c08-8876-e9dc2a33a06e.gif)
+
 Link to presentation can be found [Here](https://docs.google.com/presentation/d/1Ufqt-ugDe9Q2NsigC36nNvBCTmWIoBLgSVdLJVUhqxk/edit#slide=id.gc6f980f91_0_0)
 
 Data Source: https://www.kaggle.com/brunovr/metacritic-videogames-data
@@ -78,7 +80,7 @@ Sample data set for machine learning module:
 * Franchise by Critics
 * Critics/Score by Genere
 
-
+#### Data Analysis Graph Visuals:
 ##### Critic v Metacritic Score
 ![Critic v Metacritic Score](https://user-images.githubusercontent.com/93060074/160318680-704eacb9-af2c-4fc7-aa10-ef76799d73c3.jpg)
 
@@ -93,9 +95,21 @@ Sample data set for machine learning module:
 
 
 ### Machine Learning:
-Link to Machine Learning description [Here](https://github.com/taznuva/Entertainment_project/blob/main/Module%2020%20Second%20Segment%20UPDATED)
 
 ![image](https://user-images.githubusercontent.com/33046642/160321071-2b1f0649-d8f6-4942-af7a-d7ce083ac8c5.png)
+
+To prepare the data for our Machine Learning model we must first start by importing our data into the model and creating a data frame. Our team cleaned the data before importing it to better fit the model and produce more accurate results, since the data is pulled from a public website (www.Kaggle.com) we must ensure that we standardize the data to ensure the integrity of our analysis. 
+
+We found that the data was mainly in the Wrong Form and with some work could be standardized or repaired. As an example, there were inconsistencies with the player column, and we decided to drop it since it would not have an impact on the outcome of our analysis. 
+
+We then left joined another data set that included global sales to add another parameter for our model. 
+
+#### Features:
+Feature engineering is an important part of the Machine Learning process as taking the time to apply the process will improve the quality of our results. Some of the features that we will extract from the raw data include adding an additional franchise column to show game success as a franchise as opposed to just per title and an additional column to show how long the game has been out since this would give a title a bigger timeframe to be purchased. 
+#### Decision-making:
+During our decision making we came to the conclusion that having our model answer our question of whether scores affected global sales would be difficult with scores varying from 60 to 100. Therefore we decided to to split the score column into tiers incrementing in 10's to give our model a better opportunity at success. Our main features included platform, main genre, critics, developer, years since and franchise because they had the highest correlation to tiers. Our data was split into the standard 80% training with 20% testing model, we believed this gave our model enough data to be properly trained. In our selection of the machine learning model we came to the conclusion that a RandomForestClassifier was our best option. This is because RandomForestClassifiers handle low correlation data very well. Unfortunately many of our columns had low correlation or none at all, making this model ideal for our data. 
+#### Limitations:
+The limitations of this model is that it can only intake tabular data which led to our team adding the additional tier column from our scores. Our inital model was a linear regression model but upon further analysis we realized that there just wasn't enough of a correlation for it to be used effectively. That led our team to switch to a RandomForestClassifier which performed monumentally better. The model's current accuracy score is 91.8%.
 
 ### Database Integration:
 We used Pandas and SQLAlchemy to load the csv files that we started with, and merged tables that we created into a SQL database. Our database is then able to interact with our machnie learning model, which allows us to make predictions and analyze our results.
@@ -103,4 +117,8 @@ We used Pandas and SQLAlchemy to load the csv files that we started with, and me
 ### Dashboard:
 We will be using Tableau and Pandas to build visualizations of our analysis which we will showcase on Google Slides. 
 
-For the interactive portion, we will build the options to manipulate the features for the graphs. 
+For the interactive portion, we will build the options to manipulate the features for the graphs.
+
+Link to Live Dashboard with Interactive Element for User Discovery: [here](https://public.tableau.com/views/FinalProjectDash_16484347260900/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+![Screen Shot 2022-03-28 at 12 19 50 AM](https://user-images.githubusercontent.com/91990957/160326044-396c818a-999e-41fe-b9d4-b531fc0ad93e.png)

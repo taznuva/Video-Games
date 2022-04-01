@@ -1,0 +1,25 @@
+# Update Summary 3/27/2022
+
+The team developed an initial project plan and approach based on certain assumptions made about the topic and the data that we would be analyzing.  During execution of the plan the team encountered an issue that drastically impacted the precision of the analysis.  This caused the team to need to reassess and adjust the plan to find a Machine Learning model that would bring more accuracy to the analysis.  The initial description of our Machine Learning model is described below.  
+
+## Initial Machine Learning Model
+
+To prepare the data for our Machine Learning model we must first start by importing our data into the model and creating a data frame.  Our team cleaned the data before importing it to better fit the model and produce more accurate results, since the data is pulled from a public website (www.Kaggle.com) we must ensure that we standardize the data to ensure the integrity of our analysis.  We found that the data was mainly in the Wrong Form and with some work could be standardized or repaired.  As an example, there were inconsistencies with the player column, and we decided to drop it since it would not have an impact on the outcome of our analysis. 
+
+Feature engineering is an important part of the Machine Learning process as taking the time to apply the process will improve the quality of our results.  Some of the features that we will extract from the raw data include establishing an overall score by combining the Critic Score and the User Score and assessing how the various scores compare to global sales.
+1. Multiply the Critic Score and the User Score to establish an Overall Score (out of 1000 = 100 critics x 10 users)
+2. Explore evaluating the correlation between the scores and Global Sales
+
+We will use the holdout validation technique that will randomly split the data into training and testing data sets.  There will be a sample set of data that is excluded to ensure efficiency during testing.  The complete set of data will be used once the machine learning model is completed to confirm accuracy of the final model.  
+
+We decided as a team to use a Linear Regression Model for out Machine Learning analysis. Linear Regression is one of the most common algorithms for the regression task; we believe the model to be very straight forward and very easy to update.  This model can make predictions for years of experience beyond the range of the current data which is why we selected Linear Regression to make accurate predictions from data that is a few years old.  Limitations of this model are that there must be a linear relationship in the data, if there are non-linear relationships in the data it would cause the model to perform poorly.  We do not anticipate having this issue as it appears we do have a linear relationship, as an example between our scores and sales in our data set.
+
+
+
+## Rational for Revised Machine Learning Model 
+
+The Linear Regression model was causing major issues with the precision of the data analysis.  We wanted to ensure that the analysis was as accurate as possible.  After running the model and encountering the accuracy scores were less than 1% the team decided to adjust the initial plan.  While the data initially appeared to be linear, after further review we were able to determine the data contained some non-linear elements.
+
+A better fit for the data analysis is the Random Forest classifier.  This model is built of many individual decision trees that operate as a collective – where each decision tree is a variation of class predictions that will be evaluated to determine which prediction occurs most frequently.  This is a great approach since the numerous predictions can theoretically help limit individual errors.  To ensure the least number of errors we needed to build features in our model to reduce random guessing and guide the analysis in a particular direction.  The classifier also uses bagging to increase the random sample by allowing for random replacements that would result in different decision trees (predictions).  This helps reduce the sensitivity of small changes to the data. 
+
+Pivoting the model during execution of the project was challenging as work that was completed needed to be remodeled.  Though it was best for the success of project to ensure the outcome of the analysis was reliable. 
