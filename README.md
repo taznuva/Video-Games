@@ -1,7 +1,7 @@
 # Video-Games: Critics vs Metacritics
 ![image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gridoffset-videogames-1-1585583517.jpg)
 
-## Entertainment Project Plan and Presentation!
+## Video Games Project Plan and Presentation!
 ![presentation](https://user-images.githubusercontent.com/33046642/161146165-687535fe-8571-4c08-8876-e9dc2a33a06e.gif)
 
 Link to presentation can be found [Here](https://docs.google.com/presentation/d/1Ufqt-ugDe9Q2NsigC36nNvBCTmWIoBLgSVdLJVUhqxk/present?slide=id.gc6f980f91_0_0)
@@ -9,7 +9,7 @@ Link to presentation can be found [Here](https://docs.google.com/presentation/d/
 Data Source: https://www.kaggle.com/brunovr/metacritic-videogames-data
 ### Overview 
 #### Why We Chose This Topic?
-For the final project, the team has decided to analyze the video game industry based on our shared interest in Entertainment. Video games are continuously evolving in the tech industry. It has become a popular culture and provides a fun and social form of entertainment. Its relevance to the tech will be applicable for our tech career. The team has sourced the video game dataset from Kaggle (found in the link above). Based on the dataset, our objective is to predict the most anticipated video game franchise based on sales and scores. 
+For the final project, the team has decided to analyze the video game industry based on our shared interest in video games. Video games are continuously evolving in the tech industry. It has become a popular culture and provides a fun and social form of entertainment. Its relevance to the tech will be applicable for our tech career. The team has sourced the video game dataset from Kaggle (found in the link above). Based on the dataset, our objective is to predict the most anticipated video game franchise based on sales and scores. 
 #### Questions To Answer: 
 - Based on how many metacritics (user) and critics, are we able to predict the score for an anticipated video game?
 - Based on the review scores (critic and users) and franchise, are we able to to predict video game sales and its projected growth?
