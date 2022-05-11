@@ -1,4 +1,4 @@
-# Video-Games: Metacritic
+# Video-Games: Critics vs Metacritics
 ![image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gridoffset-videogames-1-1585583517.jpg)
 
 ## Entertainment Project Plan and Presentation!
